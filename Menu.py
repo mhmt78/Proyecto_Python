@@ -42,8 +42,13 @@ if __name__ == '__main__':
     salir = False
 
     print("Ud. a ingresado con el CODIGO:",miCode)
-    mensaje = "Ingrese la opción deseada"    
-
+    print("El Dinero esta en USD")
+    print("Solo se aceptan las sigientes monedas (se pone la abreviatura, es decir lo que esta entre parentesis)")
+    print("Bitcoin(BTC), Ethereum(ETH), Litecoin(LTC)")
+             
+    mensaje = "Ingrese la opción deseada"  
+    
+   
     #Menú como una lista ordenada de objetos
     menu = OrderedDict(
         [
@@ -63,7 +68,7 @@ if __name__ == '__main__':
         print('-' * len(mensaje))        
 
         for opcion, funcion in menu.items():
-            #Creo la línea a imprimir aprovechando la descripción de cada función de menú
+            #Línea a imprimir aprovechando la descripción de cada función de menú
             mensaje_final='{}. {}'.format(opcion,funcion.__doc__)
             print(mensaje_final)
 
