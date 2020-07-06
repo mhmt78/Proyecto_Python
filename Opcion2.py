@@ -37,6 +37,8 @@ def Op2():
 
                 insertar_transaccion(crypto, 'Envío Criptomoneda',codigo_vendedor, cantCrypto, cotiUSD)
 
+                input("\nPresione una tecla para volver al menú principal") 
+
                 return
             else:
                 print("La cantidad a transferir supera el monto en la billetera, no se puede realizar la operación")

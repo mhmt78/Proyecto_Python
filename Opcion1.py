@@ -37,6 +37,8 @@ def Op1():
 
             insertar_transaccion(crypto, 'Recepción Criptomoneda',codigo_vendedor, cantCrypto, cotiUSD)
 
+            input("\nPresione una tecla para volver al menú principal") 
+
             return
         else:
             print("El código utilizado es igual al código de la billetera personal, función inválida")

@@ -6,3 +6,11 @@ Fecha: Sun Jul  5 20:50:03 2020 ! Moneda: BTC ! Operación: Envío Criptomoneda ! 
 Fecha: Sun Jul  5 21:38:52 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: MIGUEL ! Cantidad: 100 ! Monto en USD: 9096.45000000 !
 Fecha: Sun Jul  5 21:39:24 2020 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: MIGUEL ! Cantidad: 100 ! Monto en USD: 9096.49000000 !
 Fecha: Sun Jul  5 21:45:12 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: 2 ! Cantidad: 100 ! Monto en USD: 9090.90000000 !
+Fecha: Sun Jul  5 21:59:04 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: 2 ! Cantidad: 100 ! Monto en USD: 9093.05000000 !
+Fecha: Sun Jul  5 22:00:13 2020 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: 2 ! Cantidad: 20 ! Monto en USD: 9095.28000000 !
+Fecha: Sun Jul  5 22:04:10 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: 2 ! Cantidad: 100 ! Monto en USD: 9087.56000000 !
+Fecha: Sun Jul  5 22:05:39 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario:  ! Cantidad: 100 ! Monto en USD: 9088.62000000 !
+Fecha: Sun Jul  5 22:06:18 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: 2 ! Cantidad: 100 ! Monto en USD: 9087.56000000 !
+Fecha: Sun Jul  5 22:06:45 2020 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: 2 ! Cantidad: 100 ! Monto en USD: 9086.69000000 !
+Fecha: Sun Jul  5 22:07:35 2020 ! Moneda: BTC ! Operación: Recepción Criptomoneda ! Código de usuario: 2 ! Cantidad: 100 ! Monto en USD: 9087.16000000 !
+Fecha: Sun Jul  5 22:07:56 2020 ! Moneda: BTC ! Operación: Envío Criptomoneda ! Código de usuario: 2 ! Cantidad: 18 ! Monto en USD: 9086.58000000 !
